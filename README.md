@@ -10,9 +10,6 @@ Create a 7-day study plan for improving Python and data science skills.
 
 Create a 7-day study plan for improving Python and data science skills. Include daily topics, practice tasks, and expected outcomes.
 
-## Prompt A Result
-
-![Prompt A Result](prompt-a-result.png)
 
 ## Prompt B – Step-by-Step Prompt
 
@@ -32,11 +29,7 @@ Follow these steps:
 5. Present the final answer in a clear table format.
 6. Use simple and student-friendly language.
 
-## Prompt B Result
 
-![Prompt B Result 1](prompt-b-result-1.png)
-
-![Prompt B Result 2](prompt-b-result-2.png)
 
 ## Comparison
 
